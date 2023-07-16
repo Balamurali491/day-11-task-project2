@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(249, 245, 245);
+}
+h1{
+    text-align: center;
+    color: white;
+    border: 2px black solid;
+    background-color: black;
+    padding: 2px 0px 2px 0px;
+   
+}
+img{
+    background-color: white;
+    padding-top: 20px;
+}
+.small{
+    background-color: black;
+    height: 70px;
+    width: 130px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 5px;
+ 
+}
+.box-part{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 0px 0px 10px;
+}
+.main{
+    background-color: black;
+    padding: 5px 0px 0px 150px;
+    margin-left: 60px;
+    margin-top: 25px;
+}
+.big{
+    background-color: black;
+    height: 70px;
+    width: 600px;
+    margin: 0px 2px 100px 250px;
+}
+.container{
+    border: 2px rgb(0, 0, 0) solid;
+    padding: 10px 15px 0px 15px;
+    background-color: rgb(200, 199, 199);
+}
